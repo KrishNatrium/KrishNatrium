@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [Krishna Gopal Kar] 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/username?label=Follow&style=social)](https://github.com/username) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/your-profile)
 
