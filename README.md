@@ -10,8 +10,8 @@ I’m currently learning SpringBoot and Spring Framework, and always looking for
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: ![Java](https://img.shields.io/badge/-Java-orange?logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white) ![C](https://img.shields.io/badge/-C-00599C?logo=c)
-- **Frameworks**: ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-green?logo=spring-boot&logoColor=white)
+- **Languages**: ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white) ![C](https://img.shields.io/badge/-C-00599C?logo=c)
+- **Frameworks**: ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-green?logo=spring-boot&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 - **Databases**: ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white)
 - **Tools**: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellij-idea)
 
@@ -29,21 +29,22 @@ A supermarket management system with a **GUI** built in **Java** and **MySQL** i
 - Sales statistics
 - Manager and employee login
 
-[**Check it out on GitHub**](https://github.com/username/supermarket-automation) 
+<!-- [**Check it out on GitHub**](https://github.com/username/supermarket-automation) -->
 
 ### 2. **Inventory Management System**
 A simple desktop app in **Java** with **MySQL** for local inventory management.
 - Add, update, and delete stock
 - Track sales and profits
 
-[**GitHub Repository**](https://github.com/username/inventory-management)
-
+<!-- [**GitHub Repository**](https://github.com/username/inventory-management) -->
+<!--
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrishNatrium&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishNatrium&layout=compact&theme=radical)
 
+-->
 ## 💬 Let's Connect!
 
 Feel free to reach out to me for collaborations or if you just want to chat about tech, games, or AI!
