@@ -20,6 +20,7 @@ I’m currently learning SpringBoot and Spring Framework, and always looking for
 
 - **Spring Boot** & **Spring Framework**
 - **Gradle** and **Maven**
+- **Git**
 - Building full-stack web applications with **Spring Boot**
 
 ## 📚 Projects
