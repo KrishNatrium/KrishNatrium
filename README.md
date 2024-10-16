@@ -11,7 +11,7 @@ I’m currently learning SpringBoot and Spring Framework, and always looking for
 ## 🛠️ Technologies & Tools
 
 - **Languages**: ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white) ![C](https://img.shields.io/badge/-C-00599C?logo=c)
-- **Frameworks**: ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-green?logo=spring-boot&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+- **Frameworks**: ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-green?logo=spring-boot&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 - **Databases**: ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white)
 - **Tools**: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellij-idea)
 
