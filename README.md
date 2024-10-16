@@ -1,6 +1,6 @@
 # Hi there, I'm Krishna Gopal Kar 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/username?label=Follow&style=social)](https://github.com/KrishNatrium) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/krishna-gopal-kar-609280255/)
+[![GitHub followers](https://img.shields.io/github/followers/username?label=Follow&style=social)](https://github.com/KrishNatrium) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/krishna-gopal-kar-609280255/) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/Leetcoder_1234567890/)
 
 ## 🚀 About Me
 
