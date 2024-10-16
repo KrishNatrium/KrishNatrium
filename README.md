@@ -1,4 +1,4 @@
-# Hi there, I'm [Krishna Gopal Kar] 👋
+# Hi there, I'm Krishna Gopal Kar 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/username?label=Follow&style=social)](https://github.com/KrishNatrium) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/krishna-gopal-kar-609280255/)
 
@@ -19,6 +19,7 @@ I’m currently learning SpringBoot and Spring Framework, and always looking for
 ## 🔧 Currently Learning
 
 - **Spring Boot** & **Spring Framework**
+- **Gradle** and **Maven**
 - Building full-stack web applications with **Spring Boot**
 
 ## 📚 Projects
