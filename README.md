@@ -10,7 +10,7 @@ I’m currently learning SpringBoot and Spring Framework, and always looking for
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white) ![C](https://img.shields.io/badge/-C-00599C?logo=c)
+- **Languages**: ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white) ![C](https://img.shields.io/badge/-C-00599C?logo=c)
 - **Frameworks**: ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-green?logo=spring-boot&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 - **Databases**: ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white)
 - **Build Tools**: ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white)
