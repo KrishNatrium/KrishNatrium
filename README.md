@@ -40,9 +40,9 @@ A simple desktop app in **Java** with **MySQL** for local inventory management.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrishNatrium&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishNatrium&layout=compact&theme=radical)
 
 ## 💬 Let's Connect!
 
