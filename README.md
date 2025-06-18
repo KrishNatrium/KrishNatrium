@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I'm a **3rd-year Software Engineering student** at [KIIT University](https://kiit.ac.in), passionate about coding and building **Backend** projects. I love working with **Java**, **Python**, and databases like **MySQL** and **Oracle**. I enjoy learning new technologies like **AI-ML** and solving challenging problems.
+I'm a **4th-year Software Engineering student** at [KIIT University](https://kiit.ac.in), passionate about coding and building **Backend** projects. I love working with **Java**, **Python**, and databases like **MySQL** and **Oracle**. I enjoy learning new technologies like **AI-ML** and solving challenging problems.
 
 I’m currently learning SpringBoot and Spring Framework, and always looking for exciting real-world projects
 
