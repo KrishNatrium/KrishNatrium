@@ -40,7 +40,7 @@ A full-featured supermarket management system with a user-friendly **Java GUI** 
 
 ### 2. **WhatSummariser**
 
-A Python-based utility that reads **WhatsApp group chat exports** and summarizes the conversation into a specified word count using **OpenAI summarization models**. Key features:
+A Python-based utility that reads **WhatsApp group chat exports** and summarizes the conversation into a specified word count using any LLM APIs. Key features:
 
 * Customizable word limit
 * Clean formatting for summary
@@ -53,10 +53,6 @@ A Python-based utility that reads **WhatsApp group chat exports** and summarizes
 ### 3. **SolGrid – Smart Solar Monitoring**
 
 An IoT-inspired **real-time solar panel monitoring dashboard** designed to track panel-wise power output and efficiency. Built with **Python** and **Matplotlib**, and designed for dataset experimentation.
-
-* Automatic data splitting for per-panel training
-* Model training with **ResNet50**
-* Class-wise performance visualization
 
 [**GitHub Repository**](https://github.com/KrishNatrium/SolGrid)
 
