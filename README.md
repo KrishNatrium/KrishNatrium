@@ -34,7 +34,7 @@ A full-featured supermarket management system with a user-friendly **Java GUI** 
 * **Sales tracking**: Monitor sales and generate profit reports
 * **User roles**: Login functionality for both manager and employees
 
-<!-- [**GitHub Repository**](https://github.com/KrishNatrium/Inventory-Management-System) -->
+[**GitHub Repository**](https://github.com/KrishNatrium/Inventory-Management-System)
 
 ---
 
@@ -46,7 +46,7 @@ A Python-based utility that reads **WhatsApp group chat exports** and summarizes
 * Clean formatting for summary
 * Toggle advanced summarization features
 
-<!-- [**GitHub Repository**](https://github.com/KrishNatrium/Whatsummariser) -->
+[**GitHub Repository**](https://github.com/KrishNatrium/Whatsummariser)
 
 ---
 
@@ -58,8 +58,7 @@ An IoT-inspired **real-time solar panel monitoring dashboard** designed to track
 * Model training with **ResNet50**
 * Class-wise performance visualization
 
-<!-- [**GitHub Repository**](https://github.com/KrishNatrium/SolGrid) -->
-
+[**GitHub Repository**](https://github.com/KrishNatrium/SolGrid)
 
 ## 📊 GitHub Stats
 
