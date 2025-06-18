@@ -25,29 +25,48 @@ I’m currently learning SpringBoot and Spring Framework, and always looking for
 
 ## 📚 Projects
 
-### 1. **Supermarket Automation Software (SAS)** 
-A supermarket management system with a **GUI** built in **Java** and **MySQL** integration. Features include:
-- Inventory management
-- Billing system
-- Sales statistics
-- Manager and employee login
+### 1. **Supermarket Inventory & Automation System**
 
-<!-- [**Check it out on GitHub**](https://github.com/username/supermarket-automation) -->
+A full-featured supermarket management system with a user-friendly **Java GUI** and **MySQL** database integration. Built to streamline store operations with:
 
-### 2. **Inventory Management System**
-A simple desktop app in **Java** with **MySQL** for local inventory management.
-- Add, update, and delete stock
-- Track sales and profits
+* **Inventory management**: Add, update, and delete stock items
+* **Billing system**: Print receipts and calculate totals
+* **Sales tracking**: Monitor sales and generate profit reports
+* **User roles**: Login functionality for both manager and employees
 
-<!-- [**GitHub Repository**](https://github.com/username/inventory-management) -->
-<!--
+<!-- [**GitHub Repository**](https://github.com/KrishNatrium/Inventory-Management-System) -->
+
+---
+
+### 2. **WhatSummariser**
+
+A Python-based utility that reads **WhatsApp group chat exports** and summarizes the conversation into a specified word count using **OpenAI summarization models**. Key features:
+
+* Customizable word limit
+* Clean formatting for summary
+* Toggle advanced summarization features
+
+<!-- [**GitHub Repository**](https://github.com/KrishNatrium/Whatsummariser) -->
+
+---
+
+### 3. **SolGrid – Smart Solar Monitoring**
+
+An IoT-inspired **real-time solar panel monitoring dashboard** designed to track panel-wise power output and efficiency. Built with **Python** and **Matplotlib**, and designed for dataset experimentation.
+
+* Automatic data splitting for per-panel training
+* Model training with **ResNet50**
+* Class-wise performance visualization
+
+<!-- [**GitHub Repository**](https://github.com/KrishNatrium/SolGrid) -->
+
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrishNatrium&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishNatrium&layout=compact&theme=radical)
 
--->
 ## 💬 Let's Connect!
 
 Feel free to reach out to me for collaborations or if you just want to chat about tech, games, or AI!
