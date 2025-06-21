@@ -56,6 +56,34 @@ An IoT-inspired **real-time solar panel monitoring dashboard** designed to track
 
 [**GitHub Repository**](https://github.com/KrishNatrium/SolGrid)
 
+---
+
+### 4. **AuthDemo**
+
+A secure authentication API built using **Spring Boot**, featuring:
+
+* User registration and login
+* JWT-based token authentication
+* Role-based access control (admin/user)
+
+**Tech Stack:** Java, Spring Boot, Spring Security, JWT, MySQL, Maven
+🔗 [View Project](https://github.com/KrishNatrium/AuthDemo)
+
+---
+
+### 5. **TaskManager**
+
+A RESTful Task Management API that allows users to:
+
+* Create, update, delete, and retrieve tasks
+* Associate tasks with specific users
+* Secure endpoints with JWT
+
+**Tech Stack:** Java, Spring Boot, Spring Security, JWT, MySQL, Maven
+🔗 [View Project](https://github.com/KrishNatrium/taskmanager)
+
+---
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrishNatrium&show_icons=true&theme=radical)
