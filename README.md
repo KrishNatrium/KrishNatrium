@@ -10,11 +10,39 @@ I’m currently learning SpringBoot and Spring Framework, and always looking for
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white) ![C](https://img.shields.io/badge/-C-00599C?logo=c)
-- **Frameworks**: ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-green?logo=spring-boot&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-- **Databases**: ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white)
-- **Build Tools**: ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white)
-- **Tools**: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellij-idea) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+- **Languages**:  
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)  
+  ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)  
+  ![C](https://img.shields.io/badge/-C-00599C?logo=c)
+
+- **Frameworks**:  
+  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)  
+  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-green?logo=spring-boot&logoColor=white)  
+  ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat&logo=.net&logoColor=white)
+
+- **Databases**:  
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
+  ![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white)  
+  ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+
+- **Build Tools**:  
+  ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white)  
+  ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white)
+
+- **Tools & Platforms**:  
+  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
+  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellij-idea)  
+  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
+  ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)  
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+  ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)  
+  ![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+
+- **Testing & Auth**:  
+  ![NUnit](https://img.shields.io/badge/NUnit-512BD4?style=flat&logo=.net&logoColor=white)  
+  ![Moq](https://img.shields.io/badge/Moq-512BD4?style=flat&logo=.net&logoColor=white)  
+  ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 
 ## 🔧 Currently Learning
 
